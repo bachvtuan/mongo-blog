@@ -1,4 +1,4 @@
-mongo-blog
-==========
+blog_mongodb
+============
 
-The simple blog using php and mongodb
+Simple blog demo using mongodb
